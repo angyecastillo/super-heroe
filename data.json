@@ -1,0 +1,36 @@
+{squadName: "Laboratoria",
+  homeTown: "Metro City",
+formed: 2016,
+secretBase: "Super tower",
+active: true,
+members: [
+{
+name: "Lima",
+age: 29,
+secretIdentity: "Dan Jukes",
+powers: [
+"Primera",
+"Segunda",
+"Tercera"
+]
+},
+{
+name: "Ciudad de Mexico",
+age: 39,
+secretIdentity: "Jane Wilson",
+powers: [
+"Primera",
+"Segunda",
+"Tercera"]
+},
+{
+name: "Santiago",
+age: 1000000,
+secretIdentity: "Unknown",
+powers: [
+"Primera",
+"Segunda",
+"Tercera"]
+}
+]
+}
