@@ -1,36 +1,41 @@
-{squadName: "Laboratoria",
-  homeTown: "Metro City",
+{
+squadName: "Super hero squad",
+homeTown: "Metro City",
 formed: 2016,
 secretBase: "Super tower",
 active: true,
 members: [
 {
-name: "Lima",
+name: "Molecule Man",
 age: 29,
 secretIdentity: "Dan Jukes",
 powers: [
-"Primera",
-"Segunda",
-"Tercera"
+"Radiation resistance",
+"Turning tiny",
+"Radiation blast"
 ]
 },
 {
-name: "Ciudad de Mexico",
+name: "Madame Uppercut",
 age: 39,
 secretIdentity: "Jane Wilson",
 powers: [
-"Primera",
-"Segunda",
-"Tercera"]
+"Million tonne punch",
+"Damage resistance",
+"Superhuman reflexes"
+]
 },
 {
-name: "Santiago",
+name: "Eternal Flame",
 age: 1000000,
 secretIdentity: "Unknown",
 powers: [
-"Primera",
-"Segunda",
-"Tercera"]
+"Immortality",
+"Heat Immunity",
+"Inferno",
+"Teleportation",
+"Interdimensional travel"
+]
 }
 ]
 }
